@@ -1,0 +1,65 @@
+﻿Chinedu Ejiogu					CS308 – Cybersecurity & Networking
+Prof. Bristow						April 6, 2020
+
+Requirement Templates 
+Goals
+1. What are business goals and objectives for what you are building?
+
+My business goal and objectives are for customers to share their photos securely and safely amongst their friends, family members, family friends, colleagues and the public at large. Customers can stroll down memory lane and romanticize and live in past through their photos for those brief moments when their eyes touch upon them, but of course not from a photo album but a digital photo album on a digital platform which is located on a website. A website that holds your memories, your life, your moments for better and for worse and it gives it’s customers the power to who they will choose to share their life with, their finite set of time with and live in those moments side by side with them. The goal of this business is to also help our customers to connect with one another with ease and securing their accounts along with their photos and to also keep and give a history or catalog of our customers delete posts, just in case they need to make revisions. As business, we need to make our product straightforward and to be easily accessible to things that needs to accessible to customers, such as their groups of people they are connected too but in precedence mindset i.e. family friend is higher in precedence than their friends group and of course their photos/videos and later on their comments. 
+Furthermore on are business goals which entails us to have our product on all platforms at the end of it all, as for not we’re focusing on making our product the most optimize on the web and to be used as a template or a showcase product that can be a staging process to show the world this product and see the feedback we may get
+
+2. What is the purpose of this project?
+
+The purpose of this project is to persuade people to have a digital photo album and to easily share with the people they feel like they should share it with, but share particular pictures or memories that have deeper meaning in their lives to people they are closer with and conversely pictures or moments that don’t play much significance to that person can be shared to people not as close to them. This feature also correlate to one of the biggest purpose of this web application and that being is that it can a more a secured and privacy orientated social media app, that focuses on who you are sharing your information/data with or who i.e. family friends, friends, and family. With the precedence system we can give and restrict what the customer puts out there to application and the public. Other features or privileges will rely on the precedence system i.e. commenting, sharing, and downloading.
+
+3. What are the problems it will solve?
+
+The problems this product will solve is the privacy, security, and the free flowing of information problem that many social media sites have. Our precedence system and having the user choose or not choose which picture(s) they will post towards a particular group of people or having this particular group have the ability to see or not to see these particular photos. Plus having the precedence system being the focal point of web application and every feature being centered around it i.e. sharing that post or picture and making comments (only family friends can) you know how your data is being manage or how and where you send your data to.
+
+4. How will it streamline or improve the current process or facilitate a new process?
+
+This product will be streamlined by use gaining more technology that will help with the scaling of our web application so that it can host or handle many users and do it efficiently and properly. Another we can improve our current process is to find a way to efficiently output picture/video content on our web application. One of our features call the precedence system for the grouping of people the customer is connected to our responsibility and solution to make that better in terms of security is to find and implement better technology or better ways for users to securely send and receive information to know the secure and to know the destination. Our business also seeks to find a new process such as AI to deem which pictures are personal/intimate and divide them from pictures that do not have those qualities and to automatically toggle them for close members of your life and ones not so close based on the pictures you prepared to upload to the website.
+
+5. What is the product vision?
+
+The grand vision of this product is to make product that is social media application for which it respects and it’s users too, the important of protecting themselves their privacy and information, but most importantly their intimate memories, valuing their closeness with people and defined relationships, and considering and appreciating their loved ones.
+
+
+User Personas 
+Type of user – unregistered users/ anonymous
+Approximate population – 10,000 users
+
+Type of user – registered users/ known users 
+Approximate population – 200,000 users
+
+Type of user – System administrator 
+Approximate population - 13
+
+Data Classifications
+Data type – Public (friends, groups, username, user info deemed public i.e. birthday)
+Data type – Privileged (pictures, video, comments, sharing)
+Data type – Private (password, pictures, history log, logged in history)
+
+
+
+User Stories 
+
+1) A user will be able to search for a user to see their profile and the contents of their profile.
+
+2) A system administrator will be able to search for a user picture to see if has been properly uploaded or corrupted.
+
+3) A unregister user will be able to look at a person’s public photos, friends, and comments just for viewing.
+
+4) A unregister user will be able download and share a user public picture also download and share a comment.
+
+5)  A user that is part of a group with another user can search for that user photos and download it and only share that photo within that group or other group branch(s) not the public branch group. The purposes are just for shortage and communication.
+
+6) A System administrator will be able to suspend or delete an account if a user is doing anything suspicious or malicious to other users or the system at large.
+
+7) A system administrator will be able to give a user their history of their account and its contents, so user can have access to them.
+
+8) A system administrator will be able have user’s history of their logins and show the user how much time they spend on a session that day, month, and year.
+
+9) A user will get their logs of their account timeline or history and maybe able to revise some of those posts and then repost them.
+
+10)  A user will be able to delete a post or comment and on the other side prevent others from commenting.
